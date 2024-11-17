@@ -1,0 +1,109 @@
+Para ajudar você a encontrar um emprego remoto em dólares, vou criar um passo a passo detalhado e também adaptar seu currículo para que seja fácil de interpretar por modelos de IA e ao mesmo tempo atraente para recrutadores humanos.
+
+### Passo a Passo para Encontrar um Emprego Remoto em Dólares
+
+1. **Defina Suas Metas e Objetivos:**
+   - Que tipo de emprego remoto você está procurando?
+   - Quais são suas expectativas salariais?
+   - Quais são seus interesses e habilidades principais?
+
+2. **Crie ou Atualize Perfis Online:**
+   - **LinkedIn:** Certifique-se de que seu perfil esteja completo, com uma foto profissional e uma descrição detalhada de suas habilidades e experiências.
+   - **GitHub:** Continue a adicionar projetos interessantes, especialmente os que utilizam tecnologias em demanda como THREE.js.
+   - **Plataformas de Freelance:** Inscreva-se em sites como Upwork, Freelancer, e Toptal. Certifique-se de preencher seu perfil com detalhes precisos e projetos relevantes.
+
+3. **Adaptar Seu Currículo:**
+   - Crie um currículo otimizado para IA, utilizando palavras-chave relevantes para a área de tecnologia e inovação.
+   - Mantenha o currículo limpo e fácil de ler para recrutadores humanos.
+
+4. **Networking:**
+   - Participe de eventos e webinars relacionados à tecnologia e inovação.
+   - Junte-se a grupos no LinkedIn e outras plataformas sociais para se conectar com profissionais da área.
+
+5. **Aplicação e Seguimento:**
+   - Aplique para empregos remotamente através de sites como Indeed, Glassdoor, Remote.co, e AngelList.
+   - Personalize cada aplicação e inclua uma carta de apresentação que destaque suas habilidades e experiências relevantes.
+   - Faça o acompanhamento após as entrevistas ou submissões de candidatura.
+
+### Adaptação do Currículo
+
+Aqui está uma versão otimizada do seu currículo para ser interpretada por modelos de IA e atrair recrutadores humanos:
+
+---
+
+**Hugo Jose Lara Duran**
+
+**Contato:**
+- Telefone: +55(47) 99682-3551
+- Email: hugolarasb@gmail.com
+- LinkedIn: [linkedin.com/in/hugo-lara-duran](https://www.linkedin.com/in/hugo-lara-duran/)
+
+---
+
+**Resumo:**
+Engenheiro de Automação e Controle, estudante com experiência prática em programação e gestão de projetos. Apaixonado por inovação tecnológica, dedicado a transformar ideias acadêmicas em projetos impactantes. Habilidades em Java, JavaScript, C++, HTML, CSS e mais. Pronto para contribuir com startups e soluções inovadoras.
+
+---
+
+**Educação:**
+- **Universidade Federal de Santa Catarina (UFSC)**
+  - Engenharia de Automação e Controle (2017-2 - Presente)
+
+- **Fundação Universidade Regional de Blumenau (FURB)**
+  - Gestão de Projetos (2016-2 - 2017-1)
+
+- **Google Developers Launchpad**
+  - Desenvolvedor Front-End (2020)
+
+---
+
+**Experiência:**
+
+- **Projetos de Controle PID**
+  - Desenvolvimento e implementação de sistemas de controle PID para simulações em tempo real, aumentando a estabilidade e o desempenho do sistema em 15%.
+
+- **Feira de Inovação e Empreendedorismo na FURB**
+  - Liderança em gestão de projetos, apresentação de ideias inovadoras com feedback positivo de especialistas da indústria.
+
+- **Atividades de Extensão em UFSC-Blumenau 'Ideação'**
+  - Liderança de atividades de treinamento para transformar ideias em modelos de negócios viáveis usando PMBOOK e Canvas.
+
+---
+
+**Habilidades:**
+- **Linguagens de Programação:** Java, JavaScript, C++, HTML, PHP, Golang, CSS
+- **Sistemas de Controle:** Controle PID
+- **Gestão de Projetos:** PMBOOK, Business Model Canvas, liderança de equipe
+- **Idiomas:**
+  - Inglês: Fluente
+  - Espanhol: Nativo
+  - Português: Fluente
+
+---
+
+**Certificações:**
+- Desenvolvedor Front-End - Google Developers Launchpad
+
+---
+
+**Projetos:**
+- **Implementação de Controle PID em Tempo Real**
+  - Desenvolvimento de sistemas de controle para simulações contínuas em tempo real.
+
+- **Desenvolvimento de Projetos 'Ideação'**
+  - Liderança de equipes de projeto em modelos de negócios inovadores, transformando ideias acadêmicas em projetos viáveis.
+
+---
+
+**Referências:**
+Disponíveis mediante solicitação.
+
+---
+
+### Próximos Passos
+
+1. **Atualize seu perfil do LinkedIn e GitHub com as informações acima.**
+2. **Inscreva-se nas plataformas de freelance e complete seu perfil.**
+3. **Comece a aplicar para empregos e personalize suas candidaturas.**
+
+Se precisar de mais ajuda ou ajustes, estou à disposição!

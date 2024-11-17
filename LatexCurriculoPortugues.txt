@@ -1,0 +1,70 @@
+\documentclass[a4paper,10pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+
+\title{Currículo}
+\author{Hugo Jose Lara Duran}
+\date{}
+
+\begin{document}
+
+\maketitle
+
+\section*{Contato}
+\begin{itemize}
+    \item Telefone: +55(47) 99682-3551
+    \item Email: hugolarasb@gmail.com
+    \item LinkedIn: \texttt{linkedin.com/in/hugo-lara-325542128}
+\end{itemize}
+
+\section*{Resumo}
+Engenheiro de Automação e Controle com sólida experiência em análise e suporte de sistemas em empresas como Tupy e AlticeUSA. Especialista em tecnologias avançadas, com foco na resolução de problemas globais e melhoria de processos. Demonstrou habilidades excepcionais em gerenciamento de projetos e implementação de soluções eficazes. Em busca de oportunidades desafiadoras para crescer e contribuir significativamente em um ambiente inovador.
+
+\section*{Educação}
+\begin{itemize}
+    \item Universidade Federal de Santa Catarina (UFSC): Engenharia de Automação e Controle (2017 - Presente)
+    \item Fundação Universidade Regional de Blumenau (FURB): Gestão de Projetos (2016 - 2017)
+    \item Google Developers Launchpad: Desenvolvedor Front-End (2020)
+    \item Envolti/Universidades de Blumenau: Curso de Figma
+    \item Plataformas de Ensino Online: Curso de React com Typescript, Node.js
+\end{itemize}
+
+\section*{Experiência}
+\subsection*{Tupy - Analista e Suporte de Sistemas}
+\begin{itemize}
+    \item Período: 2021 - 2023
+    \item Resolvi tickets de front-end antes de ser encarregado do backlog de um sistema integrado com o setor de saúde da empresa.
+    \item Reduzi o backlog de mais de 500 para zero em uma força-tarefa com um colega especializado em SAP.
+    \item Facilitei a implementação de um projeto SAP para a filial no México, utilizando minhas habilidades em espanhol e inglês.
+\end{itemize}
+
+\subsection*{AlticeUSA - Analista e Suporte de Sistemas}
+\begin{itemize}
+    \item Período: 2023 - 2024
+    \item Gerenciei a infraestrutura de TI, incluindo servidores e redes, mantendo 98\% de uptime.
+    \item Forneci suporte técnico a colaboradores em inglês nativo dos EUA, com uma taxa de resolução de problemas de 95\% na primeira chamada.
+    \item Atuei em protocolos de segurança para prevenir ataques cibernéticos e de engenharia social.
+\end{itemize}
+
+\subsection*{Atividades de Extensão na UFSC-Blumenau ``Ideação''}
+\begin{itemize}
+    \item Período: 2018 - 2019
+    \item Desenvolvimento de atividades de treinamento e preparação geral para transformar ideias em projetos e modelos de negócios.
+    \item Planejamento, execução e manutenção de projetos e/ou modelos de negócios utilizando ferramentas como PMBOOK, Business Model Canvas, trabalho em equipe e liderança.
+\end{itemize}
+
+\section*{Habilidades}
+\begin{itemize}
+    \item Linguagens de Programação: Java, JavaScript, C++, HTML, PHP, Golang, CSS
+    \item Sistemas de Controle: Controle PID
+    \item Gestão de Projetos: PMBOOK, Business Model Canvas, liderança de equipe
+    \item Idiomas: Inglês (Fluente), Espanhol (Nativo), Português (Fluente)
+\end{itemize}
+
+\section*{Certificações}
+\begin{itemize}
+    \item Desenvolvedor Front-End - Google Developers Launchpad
+\end{itemize}
+
+\end{document}

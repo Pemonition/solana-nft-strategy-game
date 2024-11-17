@@ -1,0 +1,114 @@
+Currículo en Português (Otimizado)
+Nome: Hugo Jose Lara Duran
+Contato:
+
+Telefone: +55(47) 98845-9858
+Email: hugo.duran.work@gmail.com
+LinkedIn: linkedin.com/in/hugo-lara-duran
+Resumo:
+Engenheiro de Automação e Controle com sólida experiência em análise e suporte de sistemas em empresas como Tupy e AlticeUSA. Especialista em tecnologias avançadas com foco na resolução de problemas globais. Busco oportunidades desafiadoras para crescer e contribuir significativamente.
+
+Educação:
+
+Universidade Federal de Santa Catarina (UFSC): Engenharia de Automação e Controle (2017-2 - Presente)
+Fundação Universidade Regional de Blumenau (FURB): Gestão de Projetos (2016-2 - 2017-1)
+Google Developers Launchpad: Desenvolvedor Front-End (2020)
+Envolti/Universidades de Blumenau: Curso de Figma
+Plataformas de Ensino Online: Curso de React com Typescript, Node.js
+Experiência:
+
+Tupy - Analista e Suporte de Sistemas
+
+Resolvi tickets de front-end antes de ser encarregado do backlog de um sistema integrado com o setor de saúde da empresa.
+Reduzi o backlog de mais de 500 para zero em uma força-tarefa com um colega especializado em SAP.
+Facilitei a implementação de um projeto SAP para a filial no México, utilizando minhas habilidades em espanhol e inglês.
+AlticeUSA - Analista e Suporte de Sistemas
+
+Gerenciei a infraestrutura de TI, incluindo servidores e redes, mantendo 98% de uptime.
+Forneci suporte técnico a colaboradores em inglês nativo dos EUA, com uma taxa de resolução de problemas de 95% na primeira chamada.
+Atuei em protocolos de segurança para prevenir ataques cibernéticos e de engenharia social.
+Habilidades:
+
+Linguagens de Programação: Java, JavaScript, C++, HTML, PHP, Golang, CSS
+Sistemas de Controle: Controle PID
+Gestão de Projetos: PMBOOK, Business Model Canvas, liderança de equipe
+Idiomas: Inglês (Fluente), Espanhol (Nativo), Português (Fluente)
+Certificações:
+
+Desenvolvedor Front-End - Google Developers Launchpad
+Currículo en Español (Optimizado)
+Nombre: Hugo Jose Lara Duran
+Contacto:
+
+Teléfono: +55(47) 98845-9858
+Email: hugo.duran.work@gmail.com
+LinkedIn: linkedin.com/in/hugo-lara-duran
+Resumen:
+Ingeniero de Automatización y Control con sólida experiencia en análisis y soporte de sistemas para empresas tercerizadas como Tupy y AlticeUSA. Apasionado por las tecnologías avanzadas y su potencial para resolver problemas globales. Busco oportunidades desafiantes que me permitan crecer y contribuir significativamente.
+
+Educación:
+
+Universidad Federal de Santa Catarina (UFSC): Ingeniería de Automatización y Control (2017-2 - Presente)
+Fundación Universidad Regional de Blumenau (FURB): Gestión de Proyectos (2016-2 - 2017-1)
+Google Developers Launchpad: Desarrollador Front-End (2020)
+Envolti/Universidades de Blumenau: Curso de Figma
+Plataformas de Enseñanza Online: Curso de React con Typescript, Node.js
+Experiencia:
+
+Tupy - Analista y Soporte de Sistemas
+
+Resolví tickets de front-end antes de encargarme del backlog de un sistema integrado con el sector de salud de la empresa.
+Reduje el backlog de más de 500 a cero en una fuerza de tarea con un colega especializado en SAP.
+Facilitó la implementación de un proyecto SAP para la filial en México, utilizando mis habilidades en español e inglés.
+AlticeUSA - Analista y Soporte de Sistemas
+
+Gestioné la infraestructura de TI, incluyendo servidores y redes, manteniendo un 98% de tiempo de actividad.
+Proporcioné soporte técnico a colaboradores en inglés nativo de los EE. UU., con una tasa de resolución de problemas del 95% en la primera llamada.
+Implementé protocolos de seguridad para prevenir ataques cibernéticos y de ingeniería social.
+Habilidades:
+
+Lenguajes de Programación: Java, JavaScript, C++, HTML, PHP, Golang, CSS
+Sistemas de Control: Control PID
+Gestión de Proyectos: PMBOOK, Business Model Canvas, liderazgo de equipo
+Idiomas: Inglés (Fluente), Español (Nativo), Portugués (Fluente)
+Certificaciones:
+
+Desarrollador Front-End - Google Developers Launchpad
+Currículo en Inglés (Optimized)
+Name: Hugo Jose Lara Duran
+Contact:
+
+Phone: +55(47) 98845-9858
+Email: hugo.duran.work@gmail.com
+LinkedIn: linkedin.com/in/hugo-lara-duran
+Summary:
+Automation and Control Engineer with solid experience in system analysis and support for outsourced companies such as Tupy and AlticeUSA. Passionate about advanced technologies and their potential to solve global problems. Seeking challenging opportunities that allow me to grow and contribute significantly.
+
+Education:
+
+Federal University of Santa Catarina (UFSC): Automation and Control Engineering (2017-2 - Present)
+Foundation University of the Region of Blumenau (FURB): Project Management (2016-2 - 2017-1)
+Google Developers Launchpad: Front-End Developer (2020)
+Envolti/Universities of Blumenau: Figma Course
+Online Learning Platforms: React with Typescript, Node.js
+Experience:
+
+Tupy - System Analyst and Support
+
+Resolved front-end tickets before managing the backlog of an integrated system with the company's healthcare sector.
+Reduced the backlog from over 500 to zero in a task force with a colleague specializing in SAP.
+Facilitated the implementation of an SAP project for Tupy's subsidiary in Mexico, leveraging my skills in Spanish and English.
+AlticeUSA - System Analyst and Support
+
+Managed IT infrastructure, including servers and networks, maintaining 98% uptime.
+Provided technical support to native English-speaking employees in the US, with a 95% problem resolution rate on the first call.
+Implemented security protocols to prevent cyber and social engineering attacks.
+Skills:
+
+Programming Languages: Java, JavaScript, C++, HTML, PHP, Golang, CSS
+Control Systems: PID Control
+Project Management: PMBOOK, Business Model Canvas, team leadership
+Languages: English (Fluent), Spanish (Native), Portuguese (Fluent)
+Certifications:
+
+Front-End Developer - Google Developers Launchpad
