@@ -1,1 +1,13 @@
+# Node.js
+node_modules/
+dist/
+.env
 
+# Rust
+target/
+*.rs.bk
+
+# Miscellaneous
+.DS_Store
+.idea/
+.vscode/
