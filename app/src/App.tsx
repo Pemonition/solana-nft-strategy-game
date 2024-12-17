@@ -5,6 +5,8 @@ import { ConnectionProvider, WalletProvider } from '@solana/wallet-adapter-react
 import { WalletModalProvider } from '@solana/wallet-adapter-react-ui';
 import { PhantomWalletAdapter } from '@solana/wallet-adapter-wallets';
 import { clusterApiUrl } from '@solana/web3.js';
+import { AnchorProvider, Program, web3 } from "@project-serum/anchor";
+import { Wallet } from "@solana/wallet-adapter-react";
 
 require('@solana/wallet-adapter-react-ui/styles.css');
 

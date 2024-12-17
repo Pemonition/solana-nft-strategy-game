@@ -13,31 +13,42 @@ jobs:
   build-and-test:
     runs-on: ubuntu-latest
 
+    strategy:
+      matrix:
+        node-version: [16, 18, 20]
+
     steps:
       # 1. Checkout del código
       - name: Checkout code
         uses: actions/checkout@v3
 
-      # 2. Instalar Node.js
-      - name: Set up Node.js
+      # 2. Configurar Node.js
+      - name: Set up Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@v3
         with:
-          node-version: '18'
+          node-version: ${{ matrix.node-version }}
 
-      # 3. Instalar dependencias
-      - name: Install dependencies
+      # 3. Instalar dependencias del frontend
+      - name: Install frontend dependencies
         run: |
-          cd nft-game/nft-game-temp
+          cd app
           npm install
 
-      # 4. Ejecutar pruebas
-      - name: Run tests
+      # 4. Ejecutar pruebas del frontend
+      - name: Run frontend tests
         run: |
-          cd nft-game/nft-game-temp
+          cd app
           npm test
 
-      # 5. Compilar el proyecto (opcional)
-      - name: Build project
+      # 5. Instalar Anchor para pruebas de Solana
+      - name: Install Anchor
         run: |
-          cd nft-game/nft-game-temp
-          npm run build
+          cargo install --git https://github.com/coral-xyz/anchor avm --locked --force
+          avm install latest
+          avm use latest
+
+      # 6. Ejecutar pruebas de Anchor
+      - name: Run Anchor tests
+        run: |
+          cd programs
+          anchor test
